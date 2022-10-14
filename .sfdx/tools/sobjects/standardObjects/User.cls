@@ -535,7 +535,7 @@ global class User {
     global List<ContentWorkspaceSubscription> User;
     global List<Contract> ActivatedBy;
     global List<Contract> CreatedBy;
-    global List<Contract> LastModifiedBy;
+    global List<Contract> LastModifiedBy1;
     global List<Contract> Owner;
     global List<ContractChangeEvent> ActivatedBy;
     global List<ContractChangeEvent> CompanySigned;
